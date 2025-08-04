@@ -1,4 +1,4 @@
-# 🧪 Lab 1 - Grayscale, RGB Channels, and Black & White
+# Lab 1 - Grayscale, RGB Channels, and Black & White
 
 This lab demonstrates fundamental image processing operations using OpenCV and Matplotlib:
 
