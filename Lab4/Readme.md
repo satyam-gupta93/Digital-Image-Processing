@@ -1,4 +1,4 @@
-# Experiment 4: Image Compression using Arithmetic Coding and JPEG  
+# Lab 4: Image Compression using Arithmetic Coding and JPEG  
 
 ---
 
